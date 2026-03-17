@@ -1,30 +1,3 @@
 ﻿# runtrack-2-part-2-docker
-# runtrack-2-part-2-docker
 
 
-
-![alt text](<Capture d'écran 2026-03-17 143026.png>) 
-
-![alt text](<Capture d'écran 2026-03-17 143331.png>)
-
-Pour run  j ai eu ca : 
-![alt text](<Capture d'écran 2026-03-17 143755.png>)
-
-avec cette ligne de commande : 
-docker run -it --rm -p 8080:3000 mon-image-welcome
-
-![alt text](<Capture d'écran 2026-03-17 144045.png>) 
-
-j ai acceder a la page en change le port plus localhost:3000 mais 8088.
-
-
-![alt text](<Capture d'écran 2026-03-17 145119.png>)
-
-la je relance apres modification du texte je passe de "Congratulation" à " Bienvenue jeune Docker"
-
-![alt text](<Capture d'écran 2026-03-17 145346.png>)
-
-Et pour l'envoie sur Docker Hub : 
-
-![alt text](<Capture d'écran 2026-03-17 150031.png>) 
-![alt text](<Capture d'écran 2026-03-17 150046.png>)
